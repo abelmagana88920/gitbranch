@@ -6,6 +6,10 @@ Hello
 
 Lalamelo lala
 
+<<<<<<< HEAD
 Rere
+=======
+Rara
+>>>>>>> 04ad3f67f33d5c5d83b212bd0f1a4ae0cd46cfcc
 
 selo
